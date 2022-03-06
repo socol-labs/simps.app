@@ -1,3 +1,10 @@
+# TODO
+
+- Set up Tailwind and frontend libraries
+- Setup contracts package
+- Setup backend APIs (Flask etc.)
+- Create .env with env variables and stuff
+
 # Turborepo starter with pnpm
 
 This is an official starter turborepo.
