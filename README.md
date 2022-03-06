@@ -4,6 +4,9 @@
 - Setup contracts package
 - Setup backend APIs (Flask etc.)
 - Create .env with env variables and stuff
+- Setup commitizen for standardised commits
+- Setup linting
+- Setup automatic deployment
 
 # Turborepo starter with pnpm
 
