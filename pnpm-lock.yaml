@@ -4,9 +4,11 @@ importers:
 
   .:
     specifiers:
+      pnpm: ^6.32.2
       prettier: ^2.5.1
       turbo: latest
     devDependencies:
+      pnpm: 6.32.2
       prettier: 2.5.1
       turbo: 1.1.5
 
@@ -1690,6 +1692,12 @@ packages:
     resolution: {integrity: sha512-JU3teHTNjmE2VCGFzuY8EXzCDVwEqB2a8fsIvwaStHhAWJEeVd1o1QD80CU6+ZdEXXSLbSsuLwJjkCBWqRQUVA==}
     engines: {node: '>=8.6'}
     dev: false
+
+  /pnpm/6.32.2:
+    resolution: {integrity: sha512-uPZDMVfB4SEygvfUJHBTNXUCrMCxkXV5QHaoEURCeHP5GDojKH21L1Onk2Qft+kYBmLCmipV3JCGfojSQV3epw==}
+    engines: {node: '>=12.17'}
+    hasBin: true
+    dev: true
 
   /postcss/8.2.15:
     resolution: {integrity: sha512-2zO3b26eJD/8rb106Qu2o7Qgg52ND5HPjcyQiK2B98O388h43A448LCslC0dI2P97wCAQRJsFvwTRcXxTKds+Q==}
